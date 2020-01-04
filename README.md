@@ -8,3 +8,4 @@ A base repo to start any vanilla JS application.
 * __Body parser:__ Body Parser allows you to extract the entire body portion of an incoming request and exposes it on req.body. Used with Express.
 * __Request:__ TBD
 * __dotenv:__ TBD
+* __EJS:__ Templating tool
